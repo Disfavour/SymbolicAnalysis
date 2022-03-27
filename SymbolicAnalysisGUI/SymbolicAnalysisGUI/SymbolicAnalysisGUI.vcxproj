@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <ProjectGuid>{BE3FEE4D-0990-43D3-A5C5-4AAC4EE6D021}</ProjectGuid>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <Keyword>ManagedCProj</Keyword>
+    <RootNamespace>SymbolicAnalysisGUI</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CLRSupport>true</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GUI_Balancing.cpp" />
+    <ClCompile Include="GUI_ExtremeCycles.cpp" />
+    <ClCompile Include="GUI_Localization.cpp" />
+    <ClCompile Include="GUI_MaxCycle.cpp" />
+    <ClCompile Include="GUI_Morse.cpp" />
+    <ClCompile Include="GUI_Projective.cpp" />
+    <ClCompile Include="SA\Area.cpp" />
+    <ClCompile Include="SA\BalancingMethod.cpp" />
+    <ClCompile Include="SA\JohnsonAlgorithm.cpp" />
+    <ClCompile Include="SA\Kosaraju.cpp" />
+    <ClCompile Include="SA\Localization.cpp" />
+    <ClCompile Include="SA\Mapping.cpp" />
+    <ClCompile Include="SA\MorseSpectrum.cpp" />
+    <ClCompile Include="SA\parser\parser.cpp" />
+    <ClCompile Include="SA\ProjectiveLocalization.cpp" />
+    <ClCompile Include="SA\RomanovskyAlgorithm.cpp" />
+    <ClCompile Include="SA\SymbolicAnalysis.cpp" />
+    <ClCompile Include="SA\Utility.cpp" />
+    <ClCompile Include="SA\Visualization.cpp" />
+    <ClCompile Include="StartMenu.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GUI_Balancing.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="GUI_ExtremeCycles.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="GUI_Localization.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="GUI_MaxCycle.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="GUI_Morse.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="GUI_Projective.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="SA\Area.h" />
+    <ClInclude Include="SA\BalancingMethod.h" />
+    <ClInclude Include="SA\JohnsonAlgorithm.h" />
+    <ClInclude Include="SA\Kosaraju.h" />
+    <ClInclude Include="SA\Localization.h" />
+    <ClInclude Include="SA\Mapping.h" />
+    <ClInclude Include="SA\MorseSpectrum.h" />
+    <ClInclude Include="SA\parser\parser.h" />
+    <ClInclude Include="SA\ProjectiveLocalization.h" />
+    <ClInclude Include="SA\RomanovskyAlgorithm.h" />
+    <ClInclude Include="SA\SymbolicAnalysis.h" />
+    <ClInclude Include="SA\Utility.h" />
+    <ClInclude Include="SA\Visualization.h" />
+    <ClInclude Include="StartMenu.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="GUI_Balancing.resx">
+      <DependentUpon>GUI_Balancing.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_ExtremeCycles.resx">
+      <DependentUpon>GUI_ExtremeCycles.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Localization.resx">
+      <DependentUpon>GUI_Localization.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_MaxCycle.resx">
+      <DependentUpon>GUI_MaxCycle.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Morse.resx">
+      <DependentUpon>GUI_Morse.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Projective.resx">
+      <DependentUpon>GUI_Projective.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartMenu.resx">
+      <DependentUpon>StartMenu.h</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

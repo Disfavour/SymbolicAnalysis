@@ -1,0 +1,9 @@
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\x64\Release\SymbolicAnalysisGUI.GUI_Localization.resources
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\x64\Release\SymbolicAnalysisGUI.StartMenu.resources
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\x64\Release\SymbolicAnalysisGUI.vcxproj.GenerateResource.cache
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\x64\Release\SymbolicAnalysisGUI.vcxproj.AssemblyReference.cache
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\x64\Release\SymbolicAnalysisGUI.GUI_Balancing.resources
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\x64\Release\SymbolicAnalysisGUI.GUI_MaxCycle.resources
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\x64\Release\SymbolicAnalysisGUI.GUI_ExtremeCycles.resources
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\x64\Release\SymbolicAnalysisGUI.GUI_Projective.resources
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\x64\Release\SymbolicAnalysisGUI.GUI_Morse.resources

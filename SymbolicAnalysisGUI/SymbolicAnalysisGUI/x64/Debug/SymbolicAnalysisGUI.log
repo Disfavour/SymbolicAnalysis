@@ -1,0 +1,70 @@
+﻿  GUI_Balancing.cpp
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Balancing.h(732,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Balancing.h(733,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Balancing.h(734,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Balancing.h(735,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Balancing.h(742,46): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Balancing.h(742,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+  GUI_ExtremeCycles.cpp
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_ExtremeCycles.h(777,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_ExtremeCycles.h(778,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_ExtremeCycles.h(779,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_ExtremeCycles.h(780,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  GUI_Localization.cpp
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Localization.h(694,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Localization.h(695,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Localization.h(696,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Localization.h(697,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  GUI_MaxCycle.cpp
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_MaxCycle.h(739,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_MaxCycle.h(740,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_MaxCycle.h(741,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_MaxCycle.h(742,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  GUI_Morse.cpp
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Morse.h(1195,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Morse.h(1196,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Morse.h(1197,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Morse.h(1198,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  GUI_Projective.cpp
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Projective.h(1167,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Projective.h(1168,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Projective.h(1169,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Projective.h(1170,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Visualization.cpp
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\SA\Visualization.cpp(33,29): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\SA\Visualization.cpp(347,35): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\SA\Visualization.cpp(351,36): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\SA\Visualization.cpp(355,36): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\SA\Visualization.cpp(359,35): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\SA\Visualization.cpp(363,36): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\SA\Visualization.cpp(366,35): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  StartMenu.cpp
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Localization.h(694,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Localization.h(695,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Localization.h(696,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Localization.h(697,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Balancing.h(732,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Balancing.h(733,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Balancing.h(734,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Balancing.h(735,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Balancing.h(742,46): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Balancing.h(742,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_MaxCycle.h(739,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_MaxCycle.h(740,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_MaxCycle.h(741,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_MaxCycle.h(742,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_ExtremeCycles.h(777,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_ExtremeCycles.h(778,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_ExtremeCycles.h(779,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_ExtremeCycles.h(780,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Projective.h(1167,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Projective.h(1168,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Projective.h(1169,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Projective.h(1170,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Morse.h(1195,9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Morse.h(1196,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Morse.h(1197,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\SymbolicAnalysisGUI\GUI_Morse.h(1198,8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  GUI_Balancing.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SymbolicAnalysisGUI.vcxproj -> C:\Users\Профиль\source\repos\SymbolicAnalysisGUI\x64\Debug\SymbolicAnalysisGUI.exe
